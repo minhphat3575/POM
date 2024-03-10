@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-10T12:46:16 ICT" name="Default suite" finished-at="2024-03-10T12:47:04 ICT" duration-ms="47870">
+    <groups>
+    </groups>
+    <test started-at="2024-03-10T12:46:16 ICT" name="Default test" finished-at="2024-03-10T12:47:04 ICT" duration-ms="47870">
+      <class name="com.lightbend.lagom.maven_archetype.TestDropDownList">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.lightbend.lagom.maven_archetype.TestDropDownList@49e53c76]" started-at="2024-03-10T12:46:16 ICT" name="setup" finished-at="2024-03-10T12:46:52 ICT" duration-ms="36518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testSelectOption()[pri:0, instance:com.lightbend.lagom.maven_archetype.TestDropDownList@49e53c76]" started-at="2024-03-10T12:46:52 ICT" name="testSelectOption" finished-at="2024-03-10T12:47:03 ICT" duration-ms="11162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSelectOption -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lightbend.lagom.maven_archetype.TestDropDownList@49e53c76]" started-at="2024-03-10T12:47:03 ICT" name="tearDown" finished-at="2024-03-10T12:47:04 ICT" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lightbend.lagom.maven_archetype.TestDropDownList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
